@@ -1,0 +1,24 @@
+**/.idea
+*.backup
+*.versionsBackup
+*.iml
+target
+**/*.pyc
+*idea/
+*dependency-reduced-pom.xml*
+# Mac
+.DS_Store
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+test-output
